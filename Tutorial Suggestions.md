@@ -11,3 +11,12 @@
 * For loops
 * Functions
 * Objects
+* Web scraping
+* Arrays and array operations
+* Data structure and alogorithms
+* Using different frameworks
+* Mathematical operations and working with money
+* Creating graphs and display charts and dashboards
+* Creating a dashboard
+* Creating a chat
+* Working with notifications
