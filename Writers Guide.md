@@ -2,6 +2,14 @@
 
 Writing for wfTutorials I have some short guidelines.
 
+**TLDR**
+* More code,less words
+* Stay focus. Do one thing.
+* More comments. Add comments to your code snippets.
+* Don't be smart. Dont assume the user is stupid.
+
+**Full Guide Instructions**
+
 * Focus on code as much as possible. This means non lengthy introductions and historically rants.
 * When adding comments to code snippets focus on possible errors, different ways to implement the solution etc. ( You need to look at how wfTutorials is structured to understand this)
 * Don't stray from the topic. Don't confuse the reader with versions and alternative routes. Sticky with one way. You can create multiple tutorials on the same topic showing different ways.
