@@ -4,7 +4,7 @@ In order to provide the best content for users this guide outlines how tutorials
 
 ## Title and Description
 
-A tutorials must have a title and a description. The title should describe what the tutorial is about and should have the language name in it. 
+A tutorials must have a title and a description. The title should describe what the tutorial is about and should have the language name in it.
 
 Some examples are shown below
 
@@ -40,7 +40,7 @@ Usages of pages
 
 ### Page Title and Description
 
-Pages have titles and descriptions as well.  A page title describes the page. The description is option but can be useful. 
+Pages have titles and descriptions as well.  A page title describes the page. The description is option but can be useful.
 
 Examples of titles and descriptions are shown below
 
@@ -51,7 +51,4 @@ Examples of titles and descriptions are shown below
 
 
 
-Page content is where you 
-
-
-
+Page content is where you
