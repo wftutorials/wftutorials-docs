@@ -13,8 +13,8 @@
 * Objects
 * Web scraping
 * Arrays and array operations
-* Data structure and alogorithms
-* Using different frameworks
+* Data structure and algorithms
+* Using different frameworks in the chosen language
 * Mathematical operations and working with money
 * Creating graphs and display charts and dashboards
 * Creating a dashboard
