@@ -16,6 +16,8 @@ Getting started Tutorials using the following web development frameworks
 
 Topics each tutorial should cover **where relevant**. The order can be changed as required.
 
+Example article - https://app.wftutorials.com/tutorial/111
+
 * System requirements (optional)
 * Installation guide
 * Hello World beginner app
@@ -30,21 +32,24 @@ Topics each tutorial should cover **where relevant**. The order can be changed a
 
 For UI frameworks like Vue, angular and react some different requirements are listed
 
+Example article - https://app.wftutorials.com/tutorial/109
+
 * Installation guide
 * Hello world beginner app
-* Pulling data from and api
 * Creating a list of data
 * Getting click events
-* Two way binding. 
-* Form submission (not required)
+* Two way binding.
+* CSS styling
 * Conditionally rendering html templates
+* Form submission (not required)
+* Pulling data from and api
 * Filtering data and getting results from a list or table
 
 
 
 ## Submission Guidelines
 
-For an example of a great tutorial view this example here - [https://app.wftutorials.com/tutorial/89](https://app.wftutorials.com/tutorial/89)
+For an example of a great tutorial view this example here - [https://app.wftutorials.com/tutorial/89](https://app.wftutorials.com/tutorial/89) (old)
 
 * Tutorials should be submitted in mark down ideally.
 * Images should be attached separately and named correctly as the placeholders.

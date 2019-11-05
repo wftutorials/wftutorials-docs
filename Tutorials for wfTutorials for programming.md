@@ -15,15 +15,28 @@ Getting started Tutorials using the following programming languages. The aim is 
 
 Topics you can write these tutorials on. These topics show show important features of the language.
 
-- Creating graphics. Draw a triangle or square.
+- Create a shopping inventory.
+- Create a tools inventory.
+- Creating a Student database.
+- Creating an event management tool.
+- Creating a calculator.
+- Creating a Chat.
+- Create a task management app
+- Create a project management tool.
+- Or one that you suggested. (let me know of course)
+
+
+
+The topic should show different features of the language where applicable.
+
+- Working with UI interfraces. Buttons, Textareas, dropdowns, Windows and dialogues.
 - Rendering a data list or table. Filter the table or list.
-- Creating a countdown timer
-- Web scraping and parse XML and html data.
+- Working with time, calendars, dropdown elements.
+- Connecting to a web api
 - File management. Saving, editing and viewing files.
-- Pulling data from an API or website or weblink.
-- Working with sockets and multi threading.
-- Creating a  gui calculator.
-- Working with GUI elements.
+- Menu items and lists. 
+- Context menus and right clicking.
+- Events
 
 
 
